@@ -1,0 +1,1 @@
+{"version":3,"file":"qWw1cX3Z.js","sources":["../../../../../../src/lib/blocks/svelte-utils/portal/portal-state.svelte.ts"],"sourcesContent":["import { SvelteMap } from \"svelte/reactivity\";\nimport type { Snippet } from \"svelte\";\n\nexport const PortalStateMap = new SvelteMap<string, Snippet>();\n"],"names":["PortalStateMap","SvelteMap"],"mappings":"kCAGa,MAAAA,MAAqBC"}
